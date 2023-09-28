@@ -16,9 +16,13 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
 
 <img align="center" alt="Alebep-py" width = 58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
+<img align="center" alt="Alebep-huptyter" width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+
 <img align="center" alt="Alebep-Torch" height = 55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 
-<img align="center" alt="Alebep-huptyter" width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+<img align="center" alt="Alebep-TS" width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+
+          
 
 
   
