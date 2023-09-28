@@ -6,8 +6,6 @@ Sou o Alexandre Rosa,formado em engenharia Informática, tenho sede de conhecime
 
 As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, buscando constantemente maneiras de combinar esses dois mundos para criar soluções inovadoras. Com um background sólido em Data Science, estou sempre explorando maneiras de aplicar análise de dados e machine learning para resolver problemas do mundo real.
 
-
-
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Alebep-c"   width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -18,9 +16,11 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
 
 <img align="center" alt="Alebep-py" width = 58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-<img align="center" alt="Alebep-cpp" height = 150  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg">
+<img align="center" alt="Alebep-Torch" height = 55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 
-<img align="center" alt="Alebep-huptyter" width = 150  src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img align="center" alt="Alebep-huptyter" width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+
+
   
 
 
