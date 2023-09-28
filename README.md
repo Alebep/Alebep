@@ -16,13 +16,13 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
   
   <img align="center" alt="Alebep-cs"  width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 
-<img align="center" alt="Alebep-py" width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="Alebep-py" width = 58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-<img align="center" alt="Alebep-flask" width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+<img align="center" alt="Alebep-cpp" height = 150  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg">
 
-<img align="center" alt="Alebep-huptyter" width = 100  src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img align="center" alt="Alebep-huptyter" width = 150  src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   
-<img align="center" alt="Alebep-cpp" height = 100  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg">
+
 
 
   
