@@ -2,14 +2,37 @@
 
 ## Sobre mim
 
-Sou o Alexandre Rosa,formado em engenharia Informática,tenho sede de conhecimento, boa capacidade de aprendizado. Tenho domínio de linguagens de programação e outras tecnologias inerentes.
+Sou o Alexandre Rosa,formado em engenharia Informática, tenho sede de conhecimento, boa capacidade de aprendizado. Tenho domínio de linguagens de programação e outras tecnologias inerentes.
 
 As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, buscando constantemente maneiras de combinar esses dois mundos para criar soluções inovadoras. Com um background sólido em Data Science, estou sempre explorando maneiras de aplicar análise de dados e machine learning para resolver problemas do mundo real.
+
+
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Alebep-c"   width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+
+   <img align="center" alt="Alebep-cpp" width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  
+  <img align="center" alt="Alebep-cs"  width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+
+<img align="center" alt="Alebep-py" width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+<img align="center" alt="Alebep-flask" width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+
+<img align="center" alt="Alebep-huptyter" width = 100  src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  
+<img align="center" alt="Alebep-cpp" height = 100  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg">
+
+
+  
+</div>
+
 
 ## Linguagens mais usada:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alebep&layout=compact)](https://github.com/USERNAME/github-readme-stats)
 
-
+<!--
 ## Minhas habilidades
 - **Data Science**: Possuo experiência em análise exploratória de dados, visualização de dados, modelagem estatística e machine learning. Estou sempre aprendendo e aplicando novas técnicas para extrair insights valiosos dos dados.
 
@@ -18,7 +41,7 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
 - **Bancos de Dados**: Tenho experiência em bancos de dados relacionais e NoSQL, incluindo MySQL, PostgreSQL e MongoDB.
 
 
-<!--
+
 ## Projetos destacados
 - [Projeto de Machine Learning para Classificação de Imagens](link_para_seu_projeto1): Desenvolvi um modelo de machine learning capaz de classificar imagens com alta precisão, utilizando redes neurais convolucionais.
 
