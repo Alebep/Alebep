@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-Sou o Alexandre Rosa,formado em engenharia Informática, tenho sede de conhecimento, boa capacidade de aprendizado. Tenho domínio de linguagens de programação e outras tecnologias inerentes.
+Sou o Alexandre Rosa, formado em engenharia Informática, tenho sede de conhecimento, boa capacidade de aprendizado. Tenho domínio de linguagens de programação e outras tecnologias inerentes.
 
-As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, buscando constantemente maneiras de combinar esses dois mundos para criar soluções inovadoras. Com um background sólido em Data Science, estou sempre explorando maneiras de aplicar análise de dados e machine learning para resolver problemas do mundo real.
+As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, busco constantemente maneiras de combinar esses dois mundos para criar soluções inovadoras. Com um background sólido em Data Science, busco sempre explorar maneiras de aplicar análise de dados e machine learning para resolver problemas do mundo real.
 
 <div style="display: inline_block"><br>
   
