@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil no GitHub! 👋
 
-## Sobre mim
+## Sobre mim 
 
 Sou o Alexandre Rosa, formado em engenharia Informática, tenho sede de conhecimento, boa capacidade de aprendizado. Tenho domínio de linguagens de programação e outras tecnologias inerentes.
 
