@@ -34,9 +34,14 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
 
 
 ## Linguagens mais usada:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alebep&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alebep&hide=vim%40script)](https://github.com/Alebep/github-readme-stats)
 
 <!--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alebep&layout=compact)](https://github.com/Alebep/github-readme-stats)
+
 ## Minhas habilidades
 - **Data Science**: Possuo experiência em análise exploratória de dados, visualização de dados, modelagem estatística e machine learning. Estou sempre aprendendo e aplicando novas técnicas para extrair insights valiosos dos dados.
 
