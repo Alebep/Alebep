@@ -42,7 +42,7 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
 </a>
         
  <a href="https://www.tensorflow.org/">
-    <img align="center" alt="Alebep-scikit" width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit/scikit-original.svg">
+    <img align="center" alt="Alebep-scikit" width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg">
 </a>
   
 
