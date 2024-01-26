@@ -14,7 +14,7 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
   
   <img align="center" alt="Alebep-cs"  width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   
-  <img align="center" alt="Alebep-php"  width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Alebep-php"  width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
 <img align="center" alt="Alebep-py" width = 58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
