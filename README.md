@@ -8,7 +8,7 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Alebep-c"   width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Alebep-c"   width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" href= "https://www.python.org/"/>
 
    <img align="center" alt="Alebep-cpp" width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   
