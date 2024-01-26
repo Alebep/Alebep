@@ -8,18 +8,19 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
 
 <div style="display: inline_block"><br>
   
- <a href="https://www.python.org/">
+ <a href="https://devdocs.io/c/">
   <img align="center" alt="Alebep-c" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </a>
 
- <a href="https://www.python.org/">
+ <a href="https://isocpp.org/">
    <img align="center" alt="Alebep-cpp" width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </a>
 
-  <a href="https://www.python.org/">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
    <img align="center" alt="Alebep-cs"  width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   </a>
-   <a href="https://www.python.org/">
+  
+   <a href="https://www.php.net/">
     <img align="center" alt="Alebep-php"  width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   </a>
 
@@ -28,15 +29,15 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
 </a>
 
 
- <a href="https://www.python.org/">
+ <a href="https://jupyter.org/">
     <img align="center" alt="Alebep-huptyter" width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 </a>
 
- <a href="https://www.python.org/">
+ <a href="https://pytorch.org/">
    <img align="center" alt="Alebep-Torch" height = 55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 </a>
 
- <a href="https://www.python.org/">
+ <a href="https://www.tensorflow.org/">
     <img align="center" alt="Alebep-TS" width = 50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 </a>
         
