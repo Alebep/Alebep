@@ -56,7 +56,7 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
 ## Linguagens mais usada:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alebep&hide=vim%40script)](https://github.com/Alebep/github-readme-stats)
+
 
 <!--
 
