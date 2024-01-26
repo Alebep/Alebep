@@ -29,8 +29,8 @@ As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, b
 </a>
 
 
- <a href="https://jupyter.org/">
-    <img align="center" alt="Alebep-huptyter" width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+ <a href="https://pandas.pydata.org/">
+    <img align="center" alt="Alebep-pandas" width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 </a>
 
  <a href="https://pytorch.org/">
