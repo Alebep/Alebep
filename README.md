@@ -6,6 +6,8 @@ Sou o Alexandre Rosa, formado em engenharia Informática, tenho sede de conhecim
 
 As minhas áreas de interesse são Data Science e Desenvolvimento Web Backend, busco constantemente maneiras de combinar esses dois mundos para criar soluções inovadoras. Com um background sólido em Data Science, busco sempre explorar maneiras de aplicar análise de dados e machine learning para resolver problemas do mundo real.
 
+Estou aberto a oportunidades desafiadoras e colaborações inovadoras. 
+
 <div style="display: inline_block"><br>
   
  <a href="https://devdocs.io/c/">
